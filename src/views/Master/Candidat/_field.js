@@ -10,7 +10,7 @@ export default {
                 { 
                     id:'jenis_kelamin', content_text: 'text', 
                     type:'select_box_static', 
-                    label:'Agama', 
+                    label:'Jenis Kelamin', 
                     hidden: 'no', 
                     property:['LAKI-LAKI', 'PEREMPUAN'], 
                     value:['LAKI-LAKI', 'PEREMPUAN'], 
