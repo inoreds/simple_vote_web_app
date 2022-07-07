@@ -7,7 +7,7 @@
     "bootstrap": "^4.3.1",
     "form-serialize": "^0.7.2",
     "jquery": "^3.4.1",
-    "moment": "^2.22.0",
+    "moment": "^2.29.4",
     "moment-with-locales-es6": "^1.0.1",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.14",
